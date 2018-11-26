@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">滨海湾新区</string>
+    <string name="logining">登录中...</string>
+    <string name="vpnLogin">VPN登录不支持自动登录</string>
+    <string name="title_content">智慧办公系统</string>
+    <string name="title_header">滨海湾新区智慧办公系统</string>
+</resources>

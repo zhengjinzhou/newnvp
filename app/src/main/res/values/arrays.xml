@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="swj">
+        <item>水务局</item>
+        <item>http://19.104.11.182:80</item>
+    </string-array>
+
+    <string-array name="nongyeju">
+        <item>农业局</item>
+        <item>http://19.104.9.233:80</item>
+    </string-array>
+
+    <string-array name="huambo">
+        <item>科技局</item>
+        <item>http://kjjoa.dg</item>
+    </string-array>
+
+    <string-array name="dgsghjwjlzxt">
+        <item>东莞市规划局</item>
+        <item>文件流转系统</item>
+        <item>http://19.104.9.125</item>
+    </string-array>
+
+    <string-array name="tx">
+        <item>智慧政务</item>
+        <item>智慧办公系统</item>
+        <item>http://19.108.192.125</item>
+    </string-array>
+    <string-array name="sslgcj">
+
+    </string-array>
+
+    <string-array name="dgsbhwxqgwh">
+        <item>滨海湾新区</item>
+        <item>智慧办公系统</item>
+        <item>http://19.111.48.16</item>
+    </string-array>
+
+    <string-array name="hmyz">
+        <item>渔政支队</item><!--桌面名-->
+        <item>智慧办公系统</item><!--登录页-->
+        <item>广东省渔政支队总队东莞支队</item><!--登录页-->
+        <item>http://19.104.39.4</item>
+    </string-array>
+
+</resources>
